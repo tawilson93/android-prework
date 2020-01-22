@@ -1,7 +1,7 @@
 # android-prework
 Mobile App Design - Android Pre-work Project
 
-## NAME_OF_YOUR_APP_HERE
+## APPTASTIC
 
 ### App Description
 `TODO://` Add app description
