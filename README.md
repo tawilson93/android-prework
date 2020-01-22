@@ -7,7 +7,7 @@ Mobile App Design - Android Pre-work Project
 This app displays the basic operations that can be implemented through Android Studio.
 
 ### App Walk-though
-<img src="https://i.imgur.com/j3041Y8.gif" width=350><br>
+<img src="https://i.imgur.com/rX5Zish.gif" width=350><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
